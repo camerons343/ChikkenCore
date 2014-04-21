@@ -1,0 +1,10 @@
+name: ChikkenCore
+main: com.chikkencore.Main
+version: 1.0
+description: >
+              Custom plugin by chikkenslayer
+commands:
+  ignite:
+    description: Ignite a player.
+  explode:
+    description: Explode a player.
